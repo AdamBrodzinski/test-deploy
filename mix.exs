@@ -3,7 +3,7 @@ defmodule Baz.Mixfile do
 
   def project do
     [app: :baz,
-     version: "1.0.0",
+     version: "1.1.0",
      elixir: "~> 1.0",
      elixirc_paths: elixirc_paths(Mix.env),
      compilers: [:phoenix, :gettext] ++ Mix.compilers,
