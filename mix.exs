@@ -33,7 +33,7 @@ defmodule Baz.Mixfile do
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.9"},
      {:cowboy, "~> 1.0"},
-     {:exrm, "~> 0.19"}
+     {:edeliver, "~> 1.1.1"}
    ]
   end
 end
